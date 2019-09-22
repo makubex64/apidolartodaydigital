@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-size: cover;
+	font-size: 12px;
+
+}
+.wrap{
+	width: 90%;
+	max-width: 300px;
+	
+	float: right;
+	margin: 10px auto;
+
+}
+.widget{
+	
+	width: 100%;
+/*	margin: 1em;*/
+}
+.widget p{
+	display: inline-block;
+	line-height: 12px;
+
+}
+.fecha{
+
+	text-align: center;
+	font-size: 12px;
+	margin-bottom: 1px;
+	padding: 10px;
+	width: 100%;
+}
+.reloj{
+	width: 100%;
+	padding: 1px;
+	font-size: 2em;
+	text-align: center;
+	
+}
+.reloj .caja-segundos{
+	display: inline-block;
+}
+.reloj .segundos,
+.reloj .ampm{
+	font-size: 2rem;
+	display: block;
+}
+.page-footer{
+	text: center;
+}
