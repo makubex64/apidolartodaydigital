@@ -1,0 +1,41 @@
+[33mcommit 7bca7ed1b3e08165a5cf74c5a4527fca852f3577[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: jorge <jorgeluismakubex@gmail.com>
+Date:   Sun Sep 22 15:30:49 2019 -0400
+
+    se agrego un punto al footer
+
+[33mcommit eeed7cf27f542b017723992b0635834bbca5d61c[m
+Author: jorge <jorgeluismakubex@gmail.com>
+Date:   Sun Sep 22 15:16:54 2019 -0400
+
+    agregamos un pequeño parrafo en el footer añadimos 2020
+
+[33mcommit 549b64f3a5c633a9fafc86e2b377a373a6791cfe[m[33m ([m[1;33mtag: version1.0[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: jorge <jorgeluismakubex@gmail.com>
+Date:   Sun Sep 22 13:40:10 2019 -0400
+
+    este archivo es donde tiene la funcionalidad de un reloj digital
+
+[33mcommit 613d99347f4ef85c5ef22a03eb53200fcc228fb5[m
+Author: jorge <jorgeluismakubex@gmail.com>
+Date:   Sun Sep 22 13:38:33 2019 -0400
+
+    este archivo JSON es un ejemplo, para ver el objeto y hacer peticiones pero de manera externa a travez de la URL
+
+[33mcommit 04dfdd960194b61b0acee1853a7c6bbc996f0fb0[m
+Author: jorge <jorgeluismakubex@gmail.com>
+Date:   Sun Sep 22 13:35:25 2019 -0400
+
+    se agrega el app.js donde se ejecuta el metodo ajax para obtener una peticion, y o resultado deseado
+
+[33mcommit cbe8473f8af9f47f9d3cd2282255eb3ba46966ad[m
+Author: jorge <jorgeluismakubex@gmail.com>
+Date:   Sun Sep 22 13:32:20 2019 -0400
+
+    se agrega el archivo style.css donde contiene algunos diseños basicos y estilos
+
+[33mcommit d2ea4f0d44187245a6459e55c837ba569963bad5[m
+Author: jorge <jorgeluismakubex@gmail.com>
+Date:   Sun Sep 22 13:28:53 2019 -0400
+
+    agregamos el index.html creado basicamente con un framework de css llamado materialize
