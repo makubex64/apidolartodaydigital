@@ -1,0 +1,93 @@
+{
+    "_antibloqueo": {
+        "mobile": "https://dt.wordssl.net",
+        "video": "",
+        "corto_alternativo": "https://bit.ly/venezuela911",
+        "enable_iads": "",
+        "enable_admobbanners": "ca-app-pub-8212448379596570/1946229161",
+        "enable_admobinterstitials": "",
+        "alternativo": "68747470733a2f2f643139306b6e337a616c326271682e636c6f756466726f6e742e6e6574",
+        "alternativo2": "68747470733a2f2f643139306b6e337a616c326271682e636c6f756466726f6e742e6e6574",
+        "notifications": "https://d3c134ru0r3b0g.cloudfront.net",
+        "resource_id": "33504 A"
+    },
+    "_labels": {
+        "a": "DOLARTODAY",
+        "a1": "CUCUTA (EFECTIVO)",
+        "b": "IMPLICITO",
+        "c": "DICOM",
+        "d": "DOLAR BITCOIN",
+        "e": "DIPRO"
+    },
+    "_timestamp": {
+        "epoch": "1568823665",
+        "fecha": "Septiembre 18, 2019 12:21 PM",
+        "fecha_corta": "Sep 18, 2019",
+        "fecha_corta2": "Sep 2019",
+        "fecha_nice": "Septiembre 18, 2019",
+        "dia": "Mi�rcoles",
+        "dia_corta": "Mi�"
+    },
+    "USD": {
+        "transferencia": 21238.02,
+        "transfer_cucuta": 21238.02,
+        "efectivo": 45,
+        "efectivo_real": 18529.41,
+        "efectivo_cucuta": 18529.41,
+        "promedio": 21238.02,
+        "promedio_real": 19889.29,
+        "cencoex": 10.00,
+        "sicad1": 18875.83,
+        "sicad2": 19889.29,
+        "bitcoin_ref": 18875.83,
+        "localbitcoin_ref": 18875.83,
+        "dolartoday": 21238.02
+    },
+    "EUR": {
+        "transferencia": 23456.12,
+        "transfer_cucuta": 23456.12,
+        "efectivo": 51.1,
+        "efectivo_real": 20496.31,
+        "efectivo_cucuta": 20496.31,
+        "promedio": 23456.12,
+        "promedio_real": 21999.54,
+        "cencoex": 11.06,
+        "sicad1": 20878.56,
+        "sicad2": 21999.54,
+        "dolartoday": 23456.12
+    },
+    "COL": {
+        "efectivo": 0.1700,
+        "transfer": 0.1700,
+        "compra": 0.1700,
+        "venta": 0.19
+    },
+    "GOLD": {
+        "rate": 1508.26
+    },
+    "USDVEF": {
+        "rate": 10.2087
+    },
+    "USDCOL": {
+        "setfxsell": 3150.00,
+        "setfxbuy": 3150.00,
+        "rate": 4054.00,
+        "ratecash": 3176.00,
+        "ratetrm": 3150.00,
+        "trmfactor": 0.2,
+        "trmfactorcash": 0.06
+    },
+    "EURUSD": {
+        "rate": 1.10615
+    },
+    "BCV": {
+        "fecha": "1522123200",
+        "fecha_nice": "Marzo 27, 2018",
+        "liquidez": "328.319.818.517",
+        "reservas": "9.444.000"
+    },
+    "MISC": {
+        "petroleo": "57,83",
+        "reservas": "9,4"
+    }
+}
