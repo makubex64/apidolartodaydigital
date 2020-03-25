@@ -21,7 +21,7 @@ function traerDatos(){
 				<td>${datos._timestamp.fecha}</td>
 				</tr>
 
-				`
+				`;
 
 
 		}
