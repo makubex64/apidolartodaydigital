@@ -1,7 +1,20 @@
 *{
 	margin: 0;
 	padding: 0;
+
+
 }
+
+.section-parrafo{
+	font-size: 16px;
+	font-family: 'PT Serif', serif;
+	font-family: 'Baloo Chettan 2', cursive;
+	margin-left: -100px;
+	margin-top: 50px;
+
+}
+
+
 body{
 	background-size: cover;
 	font-size: 12px;
