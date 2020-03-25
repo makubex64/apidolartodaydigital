@@ -11,7 +11,7 @@
 			mes = fecha.getMonth(),
 			año = fecha.getFullYear();
 
-		//obtener mediantes variables los elementos del id del html
+		//obtener mediantes variables los elementos del id del html...
 		var pHoras = document.querySelector('#horas'),
 			pAMPM =  document.querySelector('#ampm'),
 			pMinutos = document.querySelector('#minutos'),
