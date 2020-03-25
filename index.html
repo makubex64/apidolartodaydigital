@@ -4,10 +4,15 @@
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 	<link rel="stylesheet" href="style.css">
+	<link href="https://fonts.googleapis.com/css?family=Baloo+Chettan+2|PT+Serif&display=swap" rel="stylesheet">
+
+	<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+
 
 	<title>Document</title>
 </head>
 <body>
+
 
 
 	<div class="container">
@@ -17,7 +22,7 @@
 
 			<img alt="Dolar paralelo en Venezuela" width="715" height="250" src="https://dxj1e0bbbefdtsyig.woldrssl.net/custom/rate2.jpg?nc=1">
 
-			<a href="index.html"><h2 class="btn" id="boton">RESULTADOS DE DIVISAS EN TIEMPO REAL</h2></a>
+			<a href="index.html"><h2 class="btn" id="boton">Actualizar <i class="fas fa-sync"></i></h2></a>
 
 	<div class="wrap ">
 		<div class="widget">
@@ -27,7 +32,7 @@
 				<p id="diaMes"></p>
 				<p id="">de</p>
 				<p id="mes"></p>
-				<p id="">del</p>
+				<p id="">de</p>
 				<p id="year"></p>
 			</div>
 
@@ -54,9 +59,9 @@
 			<table>
 				<thead>
 					<tr>
-						<th>DOLAR</th>
-						<th>BITCOIN</th>
-						<th>EURO</th>
+						<th><i class="fas fa-dollar-sign"></i> DOLAR</th>
+						<th><i class="fab fa-btc"></i> BITCOIN</th>
+						<th><i class="fas fa-euro-sign"></i> EURO</th>
 						<th>FECHA DE ACTUALIZACIÓN</th>
 					</tr>
 				</thead>
@@ -68,14 +73,54 @@
 
 			</table>
 		</div>
+
+
+		<div class="section">
+			<div id="respuesta2">
+				
+			</div>
+		</div>
+
+		
+
+		<div class="section img-json">
+				<div class="post-image post-image-dfa-large left clearfix">
+					<img width="600" height="250" src="https://dxj1e0bbbefdtsyig.woldrssl.net/wp-content/uploads/2014/03/json1-600x250.png" class="attachment-dfa-large wp-post-image" alt="API DolarToday / Datos financieros y dolar paralelo" title="API DolarToday / Datos financieros y dolar paralelo">
+				</div>
+		</div>			
+
+
+	<div class="section section-parrafo">
+		<div class="container contenido">
+
+			<br>
+			<p> DolarToday obtiene la información del Dolar paralelo, M2, reservas etc de distintas fuentes. En el caso del peso Colombiano utilizamos a La Opinión así como algunas casas de cambio en Cucuta. Hacemos uso de VARIAS fuentes para asegurar consistencia en los datos. Si TODAS las fuentes muestran el MISMO valor, lo utilizamos.</p> <br>
+
+			<p>Los datos económicos relacionados con reservas, liquidez, deuda etc los descargamos automáticamente del BCV dos veces al día para realizar nuestros cálculos y generar gráficas.</p> <br>
+
+			<p>TODA la información que recopilamos puede ser utilizada SIN RESTRICCIONES haciendo uso de los mecanismos dispuestos para ello. La dirección para descargar esta información es la siguiente:</p> <br>
+
+			<a href="https://s3.amazonaws.com/dolartoday/data.json">https://s3.amazonaws.com/dolartoday/data.json</a>
+
+
+		</div>
+
 	</div>
 
 
-	<div class="container valing-center">	
+
 		<div class="section center teal lighten-2">
 			<footer>© Derechos reservados API-dolartoday 2019-2020.</footer>
 		</div>
 	</div>
+
+
+</div>
+
+
+
+
+
 
 
 
