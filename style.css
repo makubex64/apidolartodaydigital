@@ -4,6 +4,28 @@
 
 
 }
+body{
+	background-size: cover;
+	font-size: 12px;
+
+}
+.section{
+	/*background: green;*/
+	/*text-align: center;*/
+}
+.img-dolar{
+	width: 100%;
+	text-align: center;
+
+}
+.img-dolar img{
+	max-width: 100%;
+}
+.actualizar{
+	float: right; 
+	margin-top: 10px;
+
+}
 
 .section-parrafo{
 	font-size: 16px;
@@ -12,20 +34,19 @@
 	margin-left: -100px;
 	margin-top: 50px;
 
+	background: red;
+}
+.contenidox{
+	background: blue;
+	margin-top: 170px;
 }
 
 
-body{
-	background-size: cover;
-	font-size: 12px;
 
-}
 .wrap{
-	width: 90%;
-	max-width: 300px;
-	
-	float: right;
-	margin: 10px auto;
+	width: 300px;
+	max-width: 100%;
+	float: left;
 
 }
 .widget{
